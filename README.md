@@ -1,41 +1,8 @@
+:earth_africa: :earth_americas: :earth_asia: :earth_africa: :earth_americas: :earth_asia:
 
-    
-     
-          '             .           .
-       o       '   o  .     '   . O
-    '   .   ' .   _____  '    .      .
-     .     .   .mMMMMMMMm.  '  o  '   .
-   '   .     .MMXXXXXXXXXMM.    .   ' 
-  .       . /XX77:::::::77XX\ .   .   .
-     o  .  ;X7:::''''''':::7X;   .  '
-    '    . |::'.: BONG    '::| .   .  .
-       .   ;:.:.            :;. o   .
-    '     . \'.:            /.    '   .
-       .     `.':.        .'.  '    .
-     '   . '  .`-._____.-'   .  . '  .
-      ' o   '  .   O   .   '  o    '
-       . ' .  ' . '  ' O   . '  '   '
-        . .   '    '  .  '   . '  '
-         . .'..' . ' ' . . '.  . '
-          `.':.'        ':'.'.'
-            `\\_  |     _//'
-              \(  |\    )/
-              //\ |_\  /\\
-             (/ /\(" )/\ \)
-              \/\ (  ) /\/
-                 |(  )|
-                 | \( \
-                 |  )  \
-                 |      \
-                 |       \
-                 |        `.__,
-                 \_________.-'Ojo/gnv
-    
-          http://bong.international/
-    
+# THIS IS A BONG THING
 
-
-:earth_africa: :earth_americas: :earth_asia:
+:earth_africa: :earth_americas: :earth_asia: :earth_africa: :earth_americas: :earth_asia:
 
 ##  BONG GIT INIT
 ----
