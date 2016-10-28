@@ -7,7 +7,6 @@
 
 
 ##  BONG GIT INIT
-----
 
 ### GitHub
 
@@ -55,7 +54,6 @@ $ git push -u origin master
 ```
 
 ## BONG GIT GUIDE
-----
 
 * Do some code magic
 * See what the remote doesn’t have yet: `$ git status`
