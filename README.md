@@ -59,4 +59,4 @@ $ git push -u origin master
 * See what the remote doesn’t have yet: `$ git status`
 * Add them files: `$ git add .`
 * Commit them files with a clever message: `$ git commit -m "what i done did"`
-* Push em: `$ git push"`
+* Push em: `$ git push`
